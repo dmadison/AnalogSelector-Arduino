@@ -12,7 +12,7 @@ void setup() {
 }
 
 void loop() {
-	int option = selector.getSelection();
+	int option = selector.getPosition();
 }
 ```
 
