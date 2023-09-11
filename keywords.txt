@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For AnalogSelector Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+# Library
+AnalogSelector	KEYWORD1
+
+# Classes
+AnalogSelectorFilter	KEYWORD1
+AnalogSelector	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getPosition	KEYWORD2
+
+setRange	KEYWORD2
+setNumPositions	KEYWORD2
+setDeadzone	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
